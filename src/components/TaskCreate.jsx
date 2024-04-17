@@ -81,7 +81,7 @@ function TaskCreate({task, taskformUpdate, onUpdate}) {
              rows={5} 
              className='task-input' />
              <button className='task-button'>Oluştur</button>
-             <p><a href='https://github.com/cibo-24'>created by: cibo-24</a></p>
+             <p><a href='https://github.com/kenancibooglu'>created by: kenancibooglu</a></p>
          </form>
        </div>
 
