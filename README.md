@@ -11,4 +11,4 @@ https://jira-application-with-react.vercel.app/
 
 <img src="./gif/jira.gif" alt="gif">
 
-# Author : cibo-24
+# Author : kenancibooglu
