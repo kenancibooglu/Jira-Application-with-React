@@ -7,8 +7,5 @@ Sıralanan bu görevleri silebilme ve güncelleyebilme özelliklerine sahibiz.
 
 Bu projede useEffect, useContext, json-server ile backend ve db'e istek atmak için axios kullanılmıştır.
 
-https://jira-application-with-react.vercel.app/
-
-<img src="./gif/jira.gif" alt="gif">
 
 # Author : kenancibooglu
